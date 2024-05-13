@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1712985014 source:d:\tét\fuck\tét.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<string>
+
